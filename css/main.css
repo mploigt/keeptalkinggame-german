@@ -122,7 +122,9 @@ body {
         background: none;
     }
 }
-
+a, a:hover, a:focus, a:visited {
+	color: #000;
+}
 p,
 pre {
     margin: .5em 0 1em; /* bring top of paragraphs closer to headers */
